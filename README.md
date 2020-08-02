@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+
+
 <!--
 **rayvantsahni/rayvantsahni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
