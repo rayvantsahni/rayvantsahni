@@ -6,11 +6,12 @@
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
 
-<br/><img src = "https://github-readme-stats.vercel.app/api?username=rayvantsahni&count_private=true&show_icons=true&theme=flag-india">
 
 
 
 <!--
+<br/><img src = "https://github-readme-stats.vercel.app/api?username=rayvantsahni&count_private=true&show_icons=true&theme=flag-india">
+
 **rayvantsahni/rayvantsahni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
