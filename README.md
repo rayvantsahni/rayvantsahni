@@ -1,6 +1,6 @@
 ### Hi there. 👋
 
-# I'm Rayvant!
+# I'm Ray!
 
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
